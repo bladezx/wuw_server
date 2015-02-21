@@ -2,7 +2,7 @@ This is the wuw server.
 
 start the wuw-api like this:  
 1. install & start a local mongodb instance (http://docs.mongodb.org/manual/installation/)  
-2. npm install  
+2. npm install  //Kommando fürs installieren von Node. Im Ordner wuw_server
 3. node api.js  
 4. open `http://localhost:8088/api/v0` in your browser  
 Use something like Postman (http://www.getpostman.com/) to test it  
